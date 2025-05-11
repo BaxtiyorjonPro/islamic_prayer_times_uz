@@ -1,0 +1,462 @@
+{
+    "en": {
+        "Tashkent": [
+            "Tashkent",
+            "Bekabad",
+            "Angren",
+            "Burchmulla",
+            "Uchtepa"
+        ],
+        "Fergana": [
+            "Fergana",
+            "Kuva",
+            "Kokand",
+            "Margilan",
+            "Altinkul",
+            "Rishtan",
+            "Shakhrihan",
+            "Buloqboshi"
+        ],
+        "Samarkand": [
+            "Samarkand",
+            "Urgut",
+            "Kattakurgan",
+            "Jambay"
+        ],
+        "Khorezm": [
+            "Urgench",
+            "Khiva",
+            "Shavat",
+            "Khonka",
+            "Yangibazar",
+            "Khazarasp"
+        ],
+        "Navoi": [
+            "Navoi",
+            "Zarafshan",
+            "Uchkuduk",
+            "Kanimekh",
+            "Nurota",
+            "Tomdi"
+        ],
+        "Kashkadarya": [
+            "Karshi",
+            "Muborak",
+            "Guzar",
+            "Kasbi",
+            "Dehqonobod"
+        ],
+        "Surkhandarya": [
+            "Termez",
+            "Denov",
+            "Baysun",
+            "Sherobod",
+            "Kumkurgan"
+        ],
+        "Andijan": [
+            "Andijan",
+            "Khanabad",
+            "Khojaabad",
+            "Paxtaabad",
+            "Kurgontepa"
+        ],
+        "Namangan": [
+            "Namangan",
+            "Pop",
+            "Chortoq",
+            "Chust",
+            "Mingbuloq",
+            "Kasansay"
+        ],
+        "Jizzakh": [
+            "Jizzakh",
+            "Zomin",
+            "Gallaorol",
+            "Arnasay"
+        ],
+        "Bukhara": [
+            "Bukhara",
+            "Gazli",
+            "Karakul",
+            "Alat",
+            "Karavulbazar"
+        ],
+        "Sirdarya": [
+            "Gulistan",
+            "Dustlik"
+        ],
+        "Karakalpakstan": [
+            "Muynak",
+            "Turtkul",
+            "Shumanay",
+            "Chimbay",
+            "Takhtakopir",
+            "Nukus",
+            "Ugyz",
+            "Uzunkuduk"
+        ],
+        "Other": [
+            "Bishkek",
+            "Usmat",
+            "Dushanbe",
+            "Turkmenabad",
+            "Almaty",
+            "Tallimarjon",
+            "Ashgabat",
+            "Jalalabad",
+            "Turkestan",
+            "Khujand",
+            "Yangibazar",
+            "Zhambyl",
+            "Tashhovuz",
+            "Osh",
+            "Sayram",
+            "Konibodom"
+        ]
+    },
+    "ru": {
+        "Ташкент": [
+            "Ташкент",
+            "Бекабад",
+            "Ангрен",
+            "Бурчмулла",
+            "Учтепа"
+        ],
+        "Фергана": [
+            "Фергана",
+            "Кува",
+            "Коканд",
+            "Маргилан",
+            "Алтынкуль",
+            "Риштан",
+            "Шахрихан",
+            "Булокбаши"
+        ],
+        "Самарканд": [
+            "Самарканд",
+            "Ургут",
+            "Каттакурган",
+            "Джамбай"
+        ],
+        "Хорезм": [
+            "Ургенч",
+            "Хива",
+            "Шават",
+            "Ханка",
+            "Янгибазар",
+            "Хазарасп"
+        ],
+        "Навои": [
+            "Навои",
+            "Зарафшан",
+            "Учкудук",
+            "Канимех",
+            "Нурата",
+            "Тамды"
+        ],
+        "Кашкадарья": [
+            "Карши",
+            "Муборак",
+            "Гузар",
+            "Касан",
+            "Дехканабад"
+        ],
+        "Сурхандарья": [
+            "Термез",
+            "Денов",
+            "Байсун",
+            "Шерабад",
+            "Кумкурган"
+        ],
+        "Андижан": [
+            "Андижан",
+            "Ханабад",
+            "Ходжаабад",
+            "Пахтаабад",
+            "Кургантепа"
+        ],
+        "Наманган": [
+            "Наманган",
+            "Поп",
+            "Чартак",
+            "Чуст",
+            "Мингбулак",
+            "Касансай"
+        ],
+        "Джизак": [
+            "Джизак",
+            "Зомин",
+            "Галляарал",
+            "Арнасай"
+        ],
+        "Бухара": [
+            "Бухара",
+            "Газли",
+            "Каракуль",
+            "Алат",
+            "Каравулбазар"
+        ],
+        "Сырдарья": [
+            "Гулистан",
+            "Дустлик"
+        ],
+        "Каракалпакстан": [
+            "Муйнак",
+            "Турткуль",
+            "Шумонай",
+            "Чимбай",
+            "Тахтакупыр",
+            "Нукус",
+            "Угыз",
+            "Узункудук"
+        ],
+        "Прочие": [
+            "Бишкек",
+            "Усмат",
+            "Душанбе",
+            "Туркменабад",
+            "Алма-Ата",
+            "Таллимарджан",
+            "Ашхабад",
+            "Джалалабад",
+            "Туркестан",
+            "Худжанд",
+            "Янгибазар",
+            "Жамбул",
+            "Ташхауз",
+            "Ош",
+            "Сайрам",
+            "Канибадам"
+        ]
+    },
+    "uz": {
+        "Toshkent": [
+            "Toshkent",
+            "Bekobod",
+            "Angren",
+            "Burchmulla",
+            "Uchtepa"
+        ],
+        "Farg'ona": [
+            "Farg'ona",
+            "Quva",
+            "Qo'qon",
+            "Marg'ilon",
+            "Oltinkol",
+            "Rishton",
+            "Shahrixon",
+            "Bulokboshi"
+        ],
+        "Samarqand": [
+            "Samarqand",
+            "Urgut",
+            "Kattaqo'rg'on",
+            "Jomboy"
+        ],
+        "Xorazm": [
+            "Urganch",
+            "Xiva",
+            "Shovot",
+            "Xonqa",
+            "Yangibozor",
+            "Hazorasp"
+        ],
+        "Navoiy": [
+            "Navoiy",
+            "Zarafshon",
+            "Uchquduq",
+            "Konimex",
+            "Nurota",
+            "Tomdi"
+        ],
+        "Qashqadaryo": [
+            "Qarshi",
+            "Muborak",
+            "G'uzor",
+            "Koson",
+            "Dehqonobod"
+        ],
+        "Surxondaryo": [
+            "Termiz",
+            "Denov",
+            "Boysun",
+            "Sherobod",
+            "Qumqo'rg'on"
+        ],
+        "Andijon": [
+            "Andijon",
+            "Xonobod",
+            "Xo'jaobod",
+            "Paxtaobod",
+            "Qo'rg'ontepa"
+        ],
+        "Namangan": [
+            "Namangan",
+            "Pop",
+            "Chortoq",
+            "Chust",
+            "Mingbuloq",
+            "Kosonsoy"
+        ],
+        "Jizzax": [
+            "Jizzax",
+            "Zomin",
+            "G'allaorol",
+            "Arnasoy"
+        ],
+        "Buxoro": [
+            "Buxoro",
+            "Gazli",
+            "Qorako'l",
+            "Olot",
+            "Qorovulbozor"
+        ],
+        "Sirdaryo": [
+            "Guliston",
+            "Do'stlik"
+        ],
+        "Qoraqalpog'iston": [
+            "Mo'ynoq",
+            "To'rtko'l",
+            "Shumanay",
+            "Chimboy",
+            "Taxtako'pir",
+            "Nukus",
+            "O'g'iz",
+            "Uzunquduq"
+        ],
+        "Boshqa": [
+            "Bishkek",
+            "O'smat",
+            "Dushanbe",
+            "Turkmanobod",
+            "Olmaota",
+            "Tallimarjon",
+            "Ashxobod",
+            "Jalolobod",
+            "Turkiston",
+            "Xo'jand",
+            "Yangibozor",
+            "Jambul",
+            "Toshhovuz",
+            "Osh",
+            "Sayram",
+            "Konibodom"
+        ]
+    },
+    "uz_ru": {
+        "Тошкент": [
+            "Тошкент",
+            "Бекобод",
+            "Ангрен",
+            "Бурчмулла",
+            "Учтепа"
+        ],
+        "Фарғона": [
+            "Фарғона",
+            "Қува",
+            "Қўқон",
+            "Марғилон",
+            "Олтинкўл",
+            "Риштон",
+            "Шаҳрихон",
+            "Булоқбоши"
+        ],
+        "Самарқанд": [
+            "Самарқанд",
+            "Ургут",
+            "Каттақўрғон",
+            "Жомбой"
+        ],
+        "Хоразм": [
+            "Урганч",
+            "Хива",
+            "Шовот",
+            "Хонқа",
+            "Янгибозор",
+            "Ҳазорасп"
+        ],
+        "Навоий": [
+            "Навоий",
+            "Зарафшон",
+            "Учқудуқ",
+            "Қонимех",
+            "Нурота",
+            "Томди"
+        ],
+        "Қашқадарё": [
+            "Қарши",
+            "Муборак",
+            "Ғузор",
+            "Қасон",
+            "Деҳқонобод"
+        ],
+        "Сурхондарё": [
+            "Термиз",
+            "Денов",
+            "Бойсун",
+            "Шеробод",
+            "Қумқўрғон"
+        ],
+        "Андижон": [
+            "Андижон",
+            "Хонобод",
+            "Хўжаобод",
+            "Пахтаобод",
+            "Қўрғонтепа"
+        ],
+        "Наманган": [
+            "Наманган",
+            "Поп",
+            "Чортоқ",
+            "Чуст",
+            "Мингбулоқ",
+            "Қасансой"
+        ],
+        "Жиззах": [
+            "Жиззах",
+            "Зомин",
+            "Ғаллаорол",
+            "Арнасой"
+        ],
+        "Бухоро": [
+            "Бухоро",
+            "Газли",
+            "Қоракўл",
+            "Олот",
+            "Қоровулбозор"
+        ],
+        "Сирдарё": [
+            "Гулистон",
+            "Дўстлик"
+        ],
+        "Қорақалпоғистон": [
+            "Мўйноқ",
+            "Тўрткўл",
+            "Шуманай",
+            "Чимбой",
+            "Тахтакўпир",
+            "Нукус",
+            "Ўғиз",
+            "Узункудуқ"
+        ],
+        "Бошқа": [
+            "Бишкек",
+            "Ўсмат",
+            "Душанбе",
+            "Туркманобод",
+            "Олмаота",
+            "Таллимаржон",
+            "Ашхобод",
+            "Жалолобод",
+            "Туркистон",
+            "Хўжанд",
+            "Янгибозор",
+            "Жамбил",
+            "Тошҳовуз",
+            "Ош",
+            "Сайрам",
+            "Қонибодом"
+        ]
+    }
+}

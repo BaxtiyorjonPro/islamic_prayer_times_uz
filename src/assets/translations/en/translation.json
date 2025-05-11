@@ -1,0 +1,20 @@
+{
+    "prayer_times": "Prayer times",
+    "select_location": "Select location",
+    "current_location": "Current location: {{name}}",
+    "times": {
+        "tong_saharlik": "Fajr",
+        "quyosh": "Sunrise",
+        "peshin": "Dhuhr",
+        "asr": "Asr",
+        "shom_iftor": "Maghrib",
+        "hufton": "Isha"
+    },
+    "todays_pray_times": "Prayer time for today",
+    "tomorrows_pray_times": "Prayer times for tomorrow",
+    "dateFormat": "Prayer times for {{month}} {{day}}, {{year}}",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "dark_mode": "Dark theme"
+}

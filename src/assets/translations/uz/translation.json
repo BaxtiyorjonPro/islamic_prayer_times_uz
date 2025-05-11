@@ -1,0 +1,20 @@
+{
+    "prayer_times": "Namoz vaqtlari",
+    "select_location": "Joylashuvni tanlash",
+    "current_location": "Joriy joylashuv: {{name}}",
+    "times": {
+        "tong_saharlik": "Bomdod",
+        "quyosh": "Quyosh",
+        "peshin": "Peshin",
+        "asr": "Asr",
+        "shom_iftor": "Shom",
+        "hufton": "Hufton"
+    },
+    "todays_pray_times": "Bugungi namoz vaqtlari",
+    "tomorrows_pray_times": "Ertangi kun uchun namoz vaqtlari",
+    "dateFormat": "{{day}}-{{month}} {{year}}-yil uchun namoz vaqtlari.",
+    "daily": "Kunlik",
+    "weekly": "Haftalik",
+    "monthly": "Oylik",
+    "dark_mode": "Qorong'i mavzu"
+}

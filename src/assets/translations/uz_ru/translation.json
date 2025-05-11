@@ -1,0 +1,20 @@
+{
+    "prayer_times": "Намоз вақтлари",
+    "select_location": "Жойлашувни танлаш",
+    "current_location": "Жорий жойлашув: {{name}}",
+    "times": {
+        "tong_saharlik": "Бомдод",
+        "quyosh": "Қуёш",
+        "peshin": "Пешин",
+        "asr": "Аср",
+        "shom_iftor": "Шом",
+        "hufton": "Ҳуфтон"
+    },
+    "todays_pray_times": "Бугунги намоз вақтлари",
+    "tomorrows_pray_times": "Эртанги кун учун намоз вақтлари",
+    "dateFormat": "{{day}}-{{month}} {{year}}-йил учун намоз вақтлари.",
+    "daily": "Кунлик",
+    "weekly": "Ҳафталик",
+    "monthly": "Ойлик",
+    "dark_mode": "Қоронғи мавзу"
+}

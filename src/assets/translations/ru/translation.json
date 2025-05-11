@@ -1,0 +1,20 @@
+{
+    "prayer_times": "Время намаза",
+    "select_location": "Выберите местоположение",
+    "current_location": "Текущее местоположение: {{name}}",
+    "times": {
+        "tong_saharlik": "Фаджр",
+        "quyosh": "Восход",
+        "peshin": "Зухр",
+        "asr": "Аср",
+        "shom_iftor": "Магриб",
+        "hufton": "Иша"
+    },
+    "todays_pray_times": "Время намаза на сегодня",
+    "tomorrows_pray_times": "Время намаза на завтра",
+    "dateFormat": "Время намаза на {{day}} {{month}} {{year}} г.",
+    "daily": "Ежедневно",
+    "weekly": "Еженедельно",
+    "monthly": "Ежемесячно",
+    "dark_mode": "Темная тема"
+}
