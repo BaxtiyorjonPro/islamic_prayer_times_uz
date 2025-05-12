@@ -13,8 +13,10 @@
     "todays_pray_times": "Prayer time for today",
     "tomorrows_pray_times": "Prayer times for tomorrow",
     "dateFormat": "Prayer times for {{month}} {{day}}, {{year}}",
+    "dateForm": "{{month}} {{day}}, {{year}}",
     "daily": "Daily",
     "weekly": "Weekly",
     "monthly": "Monthly",
-    "dark_mode": "Dark theme"
+    "dark_mode": "Dark theme",
+    "date": "Date"
 }

@@ -6,13 +6,13 @@ import { useTranslation } from "react-i18next"
 import '../../extra/DateExtension'
 
 const DailyCard = ({ times, nextTimes, now, tomorrow }: { times: any; nextTimes: any, now: Date, tomorrow: Date }) => {
-    const { t } = useTranslation()
+    const { t, i18n } = useTranslation()
 
     return (
         <Card>
             <CardHeader>
                 <CardTitle>{t('todays_pray_times')}</CardTitle>
-                <CardDescription>{now.formatDate()}</CardDescription>
+                <CardDescription>{now.formatDate(i18n.language, t)}</CardDescription>
             </CardHeader>
             <CardContent style={{ display: "flex", justifyContent: "space-around", alignItems: "center", gap: "1rem" }}>
                 {times ? Object.entries(times.times).map(([key, value]) => (
@@ -27,7 +27,7 @@ const DailyCard = ({ times, nextTimes, now, tomorrow }: { times: any; nextTimes:
             <Separator className="w-12/12" />
             <CardHeader>
                 <CardTitle>{t('tomorrows_pray_times')}</CardTitle>
-                <CardDescription>{tomorrow.formatDate()}</CardDescription>
+                <CardDescription>{tomorrow.formatDate(i18n.language, t)}</CardDescription>
             </CardHeader>
             <CardContent style={{ display: "flex", justifyContent: "space-around", alignItems: "center", gap: "1rem" }}>
                 {nextTimes ? Object.entries(nextTimes.times).map(([key, value]) => (

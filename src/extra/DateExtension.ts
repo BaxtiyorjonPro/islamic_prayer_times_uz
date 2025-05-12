@@ -1,5 +1,3 @@
-import { useTranslation } from 'react-i18next'
-
 const mongthTr = {
     uz_ru: {
         months: [
@@ -70,22 +68,27 @@ const mongthTr = {
 
 declare global {
     interface Date {
-        formatDate(): string
+        formatDate(lang: string, t: any): string
+        formDate(lang: string, t: any): string
     }
 }
 
-Date.prototype.formatDate = function (): string {
-    const { t, i18n } = useTranslation()
-
-    const lang = i18n.language as "uz" | "ru" | "en"
-
+Date.prototype.formatDate = function (lang: string, t: any): string {
     const day = this.getDate()
     const monthIndex = this.getMonth()
     const year = this.getFullYear()
+    const month = mongthTr[lang as "uz_ru" | "uz" | "ru" | "en"].months[monthIndex]
 
-    const month = mongthTr[lang].months[monthIndex]
+    return t("dateFormat", { day, month, year })
+}
 
-    return t('dateFormat', { day, month, year })
+Date.prototype.formDate = function (lang: string, t: any): string {
+    const day = this.getDate()
+    const monthIndex = this.getMonth()
+    const year = this.getFullYear()
+    const month = mongthTr[lang as "uz_ru" | "uz" | "ru" | "en"].months[monthIndex]
+
+    return t("dateForm", { day, month, year })
 }
 
 export { }

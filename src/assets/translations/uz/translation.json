@@ -13,8 +13,10 @@
     "todays_pray_times": "Bugungi namoz vaqtlari",
     "tomorrows_pray_times": "Ertangi kun uchun namoz vaqtlari",
     "dateFormat": "{{day}}-{{month}} {{year}}-yil uchun namoz vaqtlari.",
+    "dateForm": "{{day}}-{{month}} {{year}}",
     "daily": "Kunlik",
     "weekly": "Haftalik",
     "monthly": "Oylik",
-    "dark_mode": "Qorong'i mavzu"
+    "dark_mode": "Qorong'i mavzu",
+    "date": "Sana"
 }

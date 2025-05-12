@@ -13,8 +13,10 @@
     "todays_pray_times": "Время намаза на сегодня",
     "tomorrows_pray_times": "Время намаза на завтра",
     "dateFormat": "Время намаза на {{day}} {{month}} {{year}} г.",
+    "dateForm": "{{day}} {{month}} {{year}} г.",
     "daily": "Ежедневно",
     "weekly": "Еженедельно",
     "monthly": "Ежемесячно",
-    "dark_mode": "Темная тема"
+    "dark_mode": "Темная тема",
+    "date": "Дата"
 }

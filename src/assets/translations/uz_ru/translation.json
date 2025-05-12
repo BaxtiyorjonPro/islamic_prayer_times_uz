@@ -13,8 +13,10 @@
     "todays_pray_times": "Бугунги намоз вақтлари",
     "tomorrows_pray_times": "Эртанги кун учун намоз вақтлари",
     "dateFormat": "{{day}}-{{month}} {{year}}-йил учун намоз вақтлари.",
+    "dateForm": "{{day}}-{{month}} {{year}}-йил",
     "daily": "Кунлик",
     "weekly": "Ҳафталик",
     "monthly": "Ойлик",
-    "dark_mode": "Қоронғи мавзу"
+    "dark_mode": "Қоронғи мавзу",
+    "date": "Сана"
 }

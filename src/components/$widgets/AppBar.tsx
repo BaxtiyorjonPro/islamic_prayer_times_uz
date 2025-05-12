@@ -36,7 +36,7 @@ const AppBar = ({ setRnd }: { setRnd: any }) => {
             <div className="text-4xl text-black dark:text-[#00ff00]" style={{ fontFamily: "Khalid, \"Caveat\", sans-serif" }}>{t('prayer_times')}</div>
             <div style={{ display: "flex", gap: "1rem" }}>
                 <Select defaultValue={i18n.language} onValueChange={(e) => changeLanguage(e)}>
-                    <SelectTrigger className="w-[180px] text-black dark:text-white " >
+                    <SelectTrigger className="w-[180px] text-black dark:text-white" >
                         <SelectValue />
                     </SelectTrigger>
                     <SelectContent>
@@ -47,7 +47,7 @@ const AppBar = ({ setRnd }: { setRnd: any }) => {
                     </SelectContent>
                 </Select>
                 <div className="flex items-center space-x-2">
-                    <Switch id="dark-light" onCheckedChange={(e) => changeTheme(e)} checked={theme == "dark"} />
+                    <Switch className="cursor-pointer" id="dark-light" onCheckedChange={(e) => changeTheme(e)} checked={theme == "dark"} />
                     <Label htmlFor="dark-light">{t('dark_mode')}</Label>
                 </div>
                 <LocationChange setRnd={setRnd} />

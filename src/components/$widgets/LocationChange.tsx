@@ -15,6 +15,13 @@ const LocationChange = ({ setRnd }: { setRnd: any }) => {
         city: ""
     })
 
+    const dispose = () => {
+        setLocation({
+            region: "",
+            city: ""
+        })
+    }
+
 
     const province = provinces[i18n.language as keyof typeof provinces]
 
@@ -22,6 +29,7 @@ const LocationChange = ({ setRnd }: { setRnd: any }) => {
         const data = findUzByCity(i18n.language, location.city)
         setRnd(new Date().getTime())
         localStorage.setItem('location', JSON.stringify(data))
+        dispose()
     }
 
     return (
@@ -49,7 +57,7 @@ const LocationChange = ({ setRnd }: { setRnd: any }) => {
                     </AlertDialogDescription>
                 </AlertDialogHeader>
                 <AlertDialogFooter>
-                    <AlertDialogCancel className="cursor-pointer">Bekor qilish</AlertDialogCancel>
+                    <AlertDialogCancel className="cursor-pointer" onClick={() => dispose()}>Bekor qilish</AlertDialogCancel>
                     <AlertDialogAction className="cursor-pointer" onClick={() => changeLocation()}>Tanlash</AlertDialogAction>
                 </AlertDialogFooter>
             </AlertDialogContent>
